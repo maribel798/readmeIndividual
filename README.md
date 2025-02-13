@@ -5,6 +5,8 @@
 ## Descripción
 La **metodología espiral** es un enfoque de desarrollo de software que combina elementos del modelo en cascada y el modelo de prototipos, enfatizando la **gestión de riesgos** y la **iteración continua**. Es ideal para proyectos grandes y complejos, ya que permite adaptarse a cambios en los requisitos y gestionar riesgos de manera efectiva.
 ![Metodología Espiral]("C:\Users\marib\OneDrive\Imágenes\R.jpg")
+![image](https://github.com/user-attachments/assets/fc3ee0e0-625e-4821-a9cd-a3c30e477a52)
+
 
 
 ## ¿Cómo Funciona?
